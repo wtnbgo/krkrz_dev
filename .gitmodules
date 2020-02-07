@@ -72,4 +72,4 @@
 	url = https://github.com/krkrz/wuvorbis.git
 [submodule "src/core"]
 	path = src/core
-	url = https://github.com/krkrz/krkrz.git
+	url = https://github.com/wamsoft/krkrz.git
